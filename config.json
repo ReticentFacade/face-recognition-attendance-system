@@ -1,0 +1,9 @@
+{
+    "server": "localhost",
+    "username": "root",
+    "password": "password",
+    "database": "facerecog",
+    "personnel_table_name": "personnel_table",
+    "attendance_table_name": "attendance_table",
+    "mysql_unknown_name_table": "unknown_table"
+}
